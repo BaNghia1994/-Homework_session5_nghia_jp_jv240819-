@@ -1,0 +1,11 @@
+h1{
+    color: blue;
+}
+div{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: antiquewhite;
+    margin-left: 10px;
+}
+.fontcss{
+    font-family: sans-serif;
+}
